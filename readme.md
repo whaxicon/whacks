@@ -28,3 +28,4 @@
 | 🍎	| mac whack						|
 | 🦆	| quack whack					|
 | 👍	| ack whack						|
+| 🌮	| snack whack					|
