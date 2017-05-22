@@ -1,0 +1,32 @@
+{
+  "name": "whacks",
+  "version": "1.0.0",
+  "description": "Official dictionary of whack terminology for various special characters.",
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"Use your eyes\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwilsonmsft/whacks.git"
+  },
+  "keywords": [
+    "whacks"
+  ],
+  "author": "David Wilson",
+  "contributors": [
+    {
+      "name": "Trevor Gau",
+      "email": "trevorsg@gmail.com"
+    },
+    {
+      "name": "David Wilson",
+      "email": "dawilson@microsoft.com"
+    }
+  ],
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/dwilsonmsft/whacks/issues"
+  },
+  "homepage": "https://github.com/dwilsonmsft/whacks#readme"
+}

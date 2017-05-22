@@ -1,3 +1,4 @@
+# whacks 
 |Symbol	|Name							|
 |-------|-------------------------------|
 | /		| (front) whack					|
@@ -29,3 +30,9 @@
 | 🦆	| quack whack					|
 | 👍	| ack whack						|
 | 🌮	| snack whack					|
+
+# Versioning Strategy
+`whacks` uses [semver](http://semver.org/):
+* Major: the name or symbol of a whack is changed or a whack is deleted
+* Minor: a new whack is added
+* Patch: other (typos, etc.)
