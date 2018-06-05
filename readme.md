@@ -8,6 +8,8 @@ A standardized lexicon of terminology for punctuation and other nonalphabetic ch
 | \		| back whack					|
 | ?		| interrowhack					|
 | !		| bang whack					|
+| :		| eyes whack					|
+| ;		| wink whack					|
 | ( )	| left/right curved whack		|
 | [ ]	| left/right brack whack		|
 | { }	| left/right fancy whack		|
