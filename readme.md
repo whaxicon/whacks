@@ -15,7 +15,9 @@ A standardized lexicon of terminology for punctuation and other nonalphabetic ch
 | { }	| left/right fancy whack		|
 | <		| less whack					|
 | >		| more whack					|
-| =		| same whack					|
+| =		| assignment whack		|
+| ==  | same whack					|
+| === | JavaScript whack		|
 | +		| cross whack					|
 | *		| star whack					|
 | #		| hash whack					|
