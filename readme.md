@@ -15,9 +15,9 @@ A standardized lexicon of terminology for punctuation and other nonalphabetic ch
 | { }	| left/right fancy whack		|
 | <		| less whack					|
 | >		| more whack					|
-| =		| assignment whack		|
-| ==  | same whack					|
-| === | JavaScript whack		|
+| =		| assignment whack				|
+| ==	| same whack					|
+| ===	| JavaScript whack				|
 | +		| cross whack					|
 | *		| star whack					|
 | #		| hash whack					|
@@ -33,10 +33,10 @@ A standardized lexicon of terminology for punctuation and other nonalphabetic ch
 | ¯		| overwhack						|
 | –		| n whack						|
 | —		| m whack						|
-| 🍎	| mac whack						|
-| 🦆	| quack whack					|
-| 👍	| ack whack						|
-| 🌮	| snack whack					|
+| 🍎		| mac whack						|
+| 🦆		| quack whack					|
+| 👍		| ack whack						|
+| 🌮		| snack whack					|
 
 ## Explanation
 Many Microsoft employees use the word "whack" to describe slashes. Whether the whack is a front slash or backslash is dependent must be derived from context clues. This project started as a way to disambiguate between whacks, but quickly expanded into a general lexicon for the description of punctuation and other nonalphabetic characters.
